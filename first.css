@@ -6,7 +6,7 @@ body
 }
 #bloc_page
 {
-    width: 900px; 
+    width: 100%; 
     margin: auto;  
 }
 h1, h2, nav a
@@ -78,7 +78,7 @@ nav a:hover
     margin-top: 15px;
     height: 200px;
     border-radius: 5px;
-    background: url(image/kawaragi.gif) no-repeat;
+    background: url(image/kirito.jpg) no-repeat;
     position: relative;
     box-shadow: 0px 4px 4px #1c1a19;
 }
@@ -142,7 +142,8 @@ aside
     border-radius: 5px;
     padding: 10px;
     color: white;
-    font-size: 1.2em;
+    font-size: 0.9em;
+    margin-top: 25px;
 }
 #fleche_bulle
 {
@@ -183,7 +184,7 @@ footer h1
 }
 #mes_photos
 {
-    width: 35%;
+    width: 45%;
 }
 #Notre_staff
 {
